@@ -1,62 +1,74 @@
 ---
 layout: post
-title: Visual Studio Code extensions that I find useful
+title: Visual Studio Code extensions
 ---
 
-## [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
+## These are some extensions that I personally find useful. I use them at work and at home too. This article will be constantly updated. If you have any suggestions, please leave a comment or contact me directly.
 
-## [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
+### **1. General**
 
-## [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
+### [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
-## [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
+### [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
-## [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
+### [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
 
-## [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
+### [Indenticator](https://marketplace.visualstudio.com/items?itemName=SirTori.indenticator)
 
-## [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
+### [Markdown All in One](https://marketplace.visualstudio.com/items?itemName=yzhang.markdown-all-in-one)
 
-## [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
+### [Path Autocomplete](https://marketplace.visualstudio.com/items?itemName=ionutvmi.path-autocomplete)
 
-## [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
+### [Prettier - Code formatter](https://marketplace.visualstudio.com/items?itemName=esbenp.prettier-vscode)
 
-## [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
+### [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
 
-## [Rainbow CSV](https://marketplace.visualstudio.com/items?itemName=mechatroner.rainbow-csv)
+### [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
 
-## [REST Client](https://marketplace.visualstudio.com/items?itemName=humao.rest-client)
+### [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
 
-## [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
+### [VSCode Sequence Diagrams](https://marketplace.visualstudio.com/items?itemName=AleksandarDev.vscode-sequence-diagrams)
 
-## [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
+### [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
 
-## [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
+### [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
-## [Jest Runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
+### [VS Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)
 
-## [markdownlint](https://marketplace.visualstudio.com/items?itemName=DavidAnson.vscode-markdownlint)
+### [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
 
-## [VSCode Sequence Diagrams](https://marketplace.visualstudio.com/items?itemName=AleksandarDev.vscode-sequence-diagrams)
+### **2. Source control**
 
-## [Formatting Toggle](https://marketplace.visualstudio.com/items?itemName=tombonnike.vscode-status-bar-format-toggle)
+### [Git History](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 
-## [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
+### [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 
-## [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
+### **3. JavaScript**
 
-## [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
+### [Quokka.js](https://marketplace.visualstudio.com/items?itemName=WallabyJs.quokka-vscode)
 
-## [VS Code .csproj](https://marketplace.visualstudio.com/items?itemName=lucasazzola.vscode-csproj)
+### [ESLint](https://marketplace.visualstudio.com/items?itemName=dbaeumer.vscode-eslint)
 
-## [VS Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)
+### [Import Cost](https://marketplace.visualstudio.com/items?itemName=wix.vscode-import-cost)
 
-## [Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
+### [Jest](https://marketplace.visualstudio.com/items?itemName=Orta.vscode-jest)
 
-## [Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
+### [Jest Runner](https://marketplace.visualstudio.com/items?itemName=firsttris.vscode-jest-runner)
 
-## [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+### **4. .Net Core**
 
-## [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)
+### [C#](https://marketplace.visualstudio.com/items?itemName=ms-vscode.csharp)
 
-## [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
+### [VS Code .csproj](https://marketplace.visualstudio.com/items?itemName=lucasazzola.vscode-csproj)
+
+### **5. Azure**
+
+### [Azure Resource Manager Tools](https://marketplace.visualstudio.com/items?itemName=msazurermtools.azurerm-vscode-tools)
+
+### [Azure App Service](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azureappservice)
+
+### [Azure Functions](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurefunctions)
+
+### [Azure Storage](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-azurestorage)
+
+### [Azure Cosmos DB](https://marketplace.visualstudio.com/items?itemName=ms-azuretools.vscode-cosmosdb)
