@@ -5,6 +5,12 @@ title: Visual Studio Code extensions
 
 ## These are some extensions that I personally find useful. I use them at work and at home too. This article will be constantly updated. If you have any suggestions, please leave a comment or contact me directly.
 
+[General](#1-general)  
+[Source control](#2-source-control)  
+[JavaScript](#3-javascript)  
+[.Net Core](#4-net-core)  
+[Azure](#5-azure)
+
 ### **1. General**
 
 ### [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
