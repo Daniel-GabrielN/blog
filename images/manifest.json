@@ -1,5 +1,6 @@
 {
-  "name": "App",
+  "name": "Dan's blog",
+  "short_name": "db",
   "icons": [
     {
       "src": "android-icon-36x36.png",
