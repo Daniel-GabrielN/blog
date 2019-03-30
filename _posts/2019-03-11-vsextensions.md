@@ -39,6 +39,8 @@ title: Visual Studio Code extensions
 
 ### [YAML](https://marketplace.visualstudio.com/items?itemName=redhat.vscode-yaml)
 
+### [XML Tools](https://marketplace.visualstudio.com/items?itemName=DotJoshJohnson.xml)
+
 ### [VS Live Share](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare)
 
 ### [PowerShell](https://marketplace.visualstudio.com/items?itemName=ms-vscode.PowerShell)
