@@ -15,6 +15,8 @@ title: Visual Studio Code extensions
 
 ### [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
 
+![Bracket Pair Colorizer screen shoot](/../media/2019-03-11-vsextensions/bpc.png)
+
 ### [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
 
 ### [Code Spell Checker](https://marketplace.visualstudio.com/items?itemName=streetsidesoftware.code-spell-checker)
