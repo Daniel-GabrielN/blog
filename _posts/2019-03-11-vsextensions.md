@@ -13,8 +13,8 @@ title: Visual Studio Code extensions
 
 ### **1. General**
 
-### [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)
-
+### [Bracket Pair Colorizer](https://marketplace.visualstudio.com/items?itemName=CoenraadS.bracket-pair-colorizer)  
+The name says it all, but since a picture is a thousand words:  
 ![Bracket Pair Colorizer screen shoot](/../media/2019-03-11-vsextensions/bpc.png)
 
 ### [Settings Sync](https://marketplace.visualstudio.com/items?itemName=Shan.code-settings-sync)
