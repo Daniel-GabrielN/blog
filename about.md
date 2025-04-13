@@ -8,4 +8,4 @@ Daniel-Gabriel N.
 
 ### Contact me
 
-[blog@danieln.xyz](mailto:blog@danieln.xyz)
+[blog@nita.ovh](mailto:blog@nita.ovh)
