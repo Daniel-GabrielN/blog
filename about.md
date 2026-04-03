@@ -8,4 +8,4 @@ Daniel-Gabriel N.
 
 ### Contact me
 
-[blog@nita.ovh](mailto:blog@nita.ovh)
+blog at this domain
